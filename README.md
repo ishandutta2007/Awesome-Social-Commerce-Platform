@@ -24,10 +24,10 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 ## 🔓 Open-Source Software
 
 ### Modern Headless / API-First E-Commerce (Best Foundations)
-- **[Medusa](https://github.com/medusajs/medusa)** — Extremely popular open-source headless commerce platform (Node.js/TypeScript). Highly extensible — excellent base for building custom social commerce, creator storefronts, or marketplace experiences.
-- **[Saleor](https://github.com/saleor/saleor)** — GraphQL-first open-source e-commerce platform. Strong for composable commerce and custom storefronts.
-- **[Vendure](https://github.com/vendure-ecommerce/vendure)** — Modern TypeScript headless commerce framework designed for customization and multi-channel selling.
-- **[Spree Commerce](https://github.com/spree/spree)** — Mature open-source e-commerce platform with solid marketplace and multi-vendor capabilities.
+- **[Medusa](https://github.com/medusajs/medusa)** [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) — Extremely popular open-source headless commerce platform (Node.js/TypeScript). Highly extensible — excellent base for building custom social commerce, creator storefronts, or marketplace experiences.
+- **[Saleor](https://github.com/saleor/saleor)** [![Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) — GraphQL-first open-source e-commerce platform. Strong for composable commerce and custom storefronts.
+- **[Spree Commerce](https://github.com/spree/spree)** [![Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) — Mature open-source e-commerce platform with solid marketplace and multi-vendor capabilities.
+- **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) — Modern TypeScript headless commerce framework designed for customization and multi-channel selling.
 
 ### Live Shopping & Social Commerce Oriented
 - Open-source **live shopping / livestream e-commerce** systems (primarily from Chinese open-source communities, e.g., Wanyue and similar projects). These often include multi-merchant support, live streaming with product showcasing, host/affiliate distribution, and short-video commerce features. Many are fully open-source for learning and non-commercial use, with commercial licenses available.
