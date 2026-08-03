@@ -50,8 +50,10 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ### ⚡ Modern Headless / API-First E-Commerce (Best Foundations)
 - **[Medusa](https://github.com/medusajs/medusa)** [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) — Extremely popular open-source headless commerce platform (Node.js/TypeScript). Highly extensible — excellent base for building custom social commerce, creator storefronts, or marketplace experiences.
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) — Open-source Laravel e-commerce framework that offers multi-vendor marketplace, headless APIs, and robust customization options out-of-the-box.
 - **[Saleor](https://github.com/saleor/saleor)** [![Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) — GraphQL-first open-source e-commerce platform. Strong for composable commerce and custom storefronts.
 - **[Spree Commerce](https://github.com/spree/spree)** [![Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) — Mature open-source e-commerce platform with solid marketplace and multi-vendor capabilities.
+- **[Sylius](https://github.com/Sylius/Sylius)** [![Stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers) — Modern open-source headless PHP e-commerce framework built on Symfony. Extremely developer-friendly for building customized storefronts and marketplaces.
 - **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) — Modern TypeScript headless commerce framework designed for customization and multi-channel selling.
 
 ### 🎥 Live Shopping & Social Commerce Oriented
