@@ -8,18 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier / Limit |
-|---|---|---|---|
-| **[LTK (LikeToKnow.it)](https://www.liketoknow.it/)** | Leading influencer marketing and social commerce platform for creators to share shoppable content and earn commissions. | Free for creators (Brand subscriptions are custom/enterprise-only) | Free (requires approval, min. 5,000 followers and consistent posting) |
-| **[ShopMy](https://shopmy.us/)** | Influencer storefront and affiliate commerce platform. | Free for creators (Brands pay a subscription fee starting at ~$399/mo + transaction fees) | Free (application-based, typically requires min. 1,000 followers) |
-| **[Spring by Amaze](https://www.spring.com/)** | Social commerce and creator storefront solution. | Free to use (Uses base cost model where creators earn the markup profit above base product cost) | Free (no subscription tiers) |
-| **[Popshop Live](https://www.popshop.live/)** | Live shopping and social commerce platform. | 6% commission fee on sales + 3% payment processing fee | Free to list and stream (No monthly base subscription fee) |
-| **[Whatnot](https://www.whatnot.com/)** | Live shopping and auction marketplace popular for collectibles and community-driven commerce. | ~8% commission fee (varies by category, e.g. 5% electronics, 4% coins) + 2.9% + $0.30 processing fee | Free to list and stream (No monthly base subscription fee) |
-| **[CommentSold](https://www.commentsold.com/)** | Social selling platform that turns social media comments and live streams into sales (especially strong for Facebook/Instagram selling). | Starter: ~$149/mo + 5% commission<br>Small Business: ~$499/mo + 4% commission<br>Large Business: ~$999/mo + 3% commission | 15-day free trial (subscription fee waived, but commission still applies) |
-| **[Firework](https://www.firework.com/)** | Shoppable video and live commerce platform. | Starter: ~$39/mo (up to 10k views, 50 uploads)<br>Growth: ~$259/mo (up to 100k views)<br>Enterprise: Custom pricing | Yes, Pilot plan is free (up to 1,000 video views/mo, 10 uploads) |
-| **[Flip.shop](https://flip.shop/)** | Specialized social commerce, live shopping, or creator-focused platform. | *Platform has shut down* | *Platform has shut down* |
-| **[ShopThing](https://www.shopthing.com/)** | Specialized social commerce, live shopping, or creator-focused platform. | 10% transaction fee + 3.5% payment processing fee | Free to list and use (No monthly base subscription fee) |
-| **[LiSA](https://lisa.commerce/)** | Specialized social commerce, live shopping, or creator-focused platform. | Custom enterprise pricing (contact for demo/quote) | None (Sales-gated enterprise model) |
+| Platform | Description | Pricing | Free Tier / Limit | Size (Est. Valuation / Revenue) |
+|---|---|---|---|---|
+| **[Whatnot](https://www.whatnot.com/)** | Live shopping and auction marketplace popular for collectibles and community-driven commerce. | ~8% commission fee (varies by category, e.g. 5% electronics, 4% coins) + 2.9% + $0.30 processing fee | Free to list and stream (No monthly base subscription fee) | **$11.5 - $20 Billion** (Valuation) |
+| **[LTK (LikeToKnow.it)](https://www.liketoknow.it/)** | Leading influencer marketing and social commerce platform for creators to share shoppable content and earn commissions. | Free for creators (Brand subscriptions are custom/enterprise-only) | Free (requires approval, min. 5,000 followers and consistent posting) | **$2.0 Billion** (Valuation) |
+| **[ShopMy](https://shopmy.us/)** | Influencer storefront and affiliate commerce platform. | Free for creators (Brands pay a subscription fee starting at ~$399/mo + transaction fees) | Free (application-based, typically requires min. 1,000 followers) | **$1.5 Billion** (Valuation) |
+| **[Firework](https://www.firework.com/)** | Shoppable video and live commerce platform. | Starter: ~$39/mo (up to 10k views, 50 uploads)<br>Growth: ~$259/mo (up to 100k views)<br>Enterprise: Custom pricing | Yes, Pilot plan is free (up to 1,000 video views/mo, 10 uploads) | **$750 Million** (Valuation) |
+| **[Popshop Live](https://www.popshop.live/)** | Live shopping and social commerce platform. | 6% commission fee on sales + 3% payment processing fee | Free to list and stream (No monthly base subscription fee) | **$100 Million** (Valuation) |
+| **[LiSA](https://lisa.commerce/)** | Specialized social commerce, live shopping, or creator-focused platform. | Custom enterprise pricing (contact for demo/quote) | None (Sales-gated enterprise model) | **$74.9 Million** (Valuation est.) |
+| **[CommentSold](https://www.commentsold.com/)** | Social selling platform that turns social media comments and live streams into sales (especially strong for Facebook/Instagram selling). | Starter: ~$149/mo + 5% commission<br>Small Business: ~$499/mo + 4% commission<br>Large Business: ~$999/mo + 3% commission | 15-day free trial (subscription fee waived, but commission still applies) | **$40.9 Million** (Valuation est.) |
+| **[ShopThing](https://www.shopthing.com/)** | Specialized social commerce, live shopping, or creator-focused platform. | 10% transaction fee + 3.5% payment processing fee | Free to list and use (No monthly base subscription fee) | **$10 Million** (Funding) |
+| **[Spring by Amaze](https://www.spring.com/)** | Social commerce and creator storefront solution. | Free to use (Uses base cost model where creators earn the markup profit above base product cost) | Free (no subscription tiers) | **$2.25 Million** (Market Cap) |
+| **[Flip.shop](https://flip.shop/)** | Specialized social commerce, live shopping, or creator-focused platform. | *Platform has shut down* | *Platform has shut down* | **$0** (Shut down) |
 
 ## 🔓 Open-Source Software
 
