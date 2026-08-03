@@ -6,9 +6,26 @@
 
 ## 🛍️ Similar Projects to Social Commerce Platforms
 
+> A curated list of awesome social commerce platforms, headless e-commerce, live shopping (livestream commerce), creator storefronts, and open-source alternatives.
+
 **Social Commerce Platforms** enable shopping experiences driven by social interactions — influencer storefronts, affiliate links, live shopping/livestream commerce, shoppable video, comment-based selling, and social discovery. Leading commercial platforms include ShopMy, LTK (LikeToKnow.it), Spring by Amaze, Popshop Live, Whatnot, CommentSold, Firework, Flip.shop, ShopThing, and LiSA.
 
 Below is a **curated list** of notable platforms and their open-source equivalents. Fully featured open-source alternatives that combine influencer networks, live auction/shopping, and social discovery at commercial scale are rare. The strongest options are modern headless e-commerce platforms, live-commerce systems, and marketplace frameworks that can be extended with social and live features.
+
+---
+
+## 🗺️ Table of Contents
+- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [Open-Source Software](#-open-source-software)
+  - [Modern Headless / API-First E-Commerce](#-modern-headless--api-first-e-commerce-best-foundations)
+  - [Live Shopping & Social Commerce Oriented](#-live-shopping--social-commerce-oriented)
+  - [Marketplace & Social Platforms](#-marketplace--social-platforms)
+  - [Supporting Open-Source Building Blocks](#-supporting-open-source-building-blocks)
+- [Typical Open-Source Approach](#-typical-open-source-approach)
+- [How to contribute](#how-to-contribute)
+- [License](#license)
+
+---
 
 ## 🏢 SaaS / Hosted Platforms
 
