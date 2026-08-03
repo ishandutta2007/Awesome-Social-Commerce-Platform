@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Awesome Social Commerce Banner" width="100%" />
 </div>
 
-## Similar Projects to Social Commerce Platforms
+## 🛍️ Similar Projects to Social Commerce Platforms
 
 **Social Commerce Platforms** enable shopping experiences driven by social interactions — influencer storefronts, affiliate links, live shopping/livestream commerce, shoppable video, comment-based selling, and social discovery. Leading commercial platforms include ShopMy, LTK (LikeToKnow.it), Spring by Amaze, Popshop Live, Whatnot, CommentSold, Firework, Flip.shop, ShopThing, and LiSA.
 
@@ -27,26 +27,26 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Modern Headless / API-First E-Commerce (Best Foundations)
+### ⚡ Modern Headless / API-First E-Commerce (Best Foundations)
 - **[Medusa](https://github.com/medusajs/medusa)** [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) — Extremely popular open-source headless commerce platform (Node.js/TypeScript). Highly extensible — excellent base for building custom social commerce, creator storefronts, or marketplace experiences.
 - **[Saleor](https://github.com/saleor/saleor)** [![Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers) — GraphQL-first open-source e-commerce platform. Strong for composable commerce and custom storefronts.
 - **[Spree Commerce](https://github.com/spree/spree)** [![Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers) — Mature open-source e-commerce platform with solid marketplace and multi-vendor capabilities.
 - **[Vendure](https://github.com/vendure-ecommerce/vendure)** [![Stars](https://img.shields.io/github/stars/vendure-ecommerce/vendure?style=social&color=white)](https://github.com/vendure-ecommerce/vendure/stargazers) — Modern TypeScript headless commerce framework designed for customization and multi-channel selling.
 
-### Live Shopping & Social Commerce Oriented
+### 🎥 Live Shopping & Social Commerce Oriented
 - Open-source **live shopping / livestream e-commerce** systems (primarily from Chinese open-source communities, e.g., Wanyue and similar projects). These often include multi-merchant support, live streaming with product showcasing, host/affiliate distribution, and short-video commerce features. Many are fully open-source for learning and non-commercial use, with commercial licenses available.
 - Community projects that combine e-commerce backends with WebRTC or third-party live streaming for shoppable live experiences.
 
-### Marketplace & Social Platforms
+### 🤝 Marketplace & Social Platforms
 - Open-source marketplace frameworks (built on Medusa, Saleor, Spree, or custom) that support multi-vendor selling and can be extended with social feeds or creator profiles.
 - Self-hosted social network platforms that include marketplace modules (e.g., platforms offering posts + buy/sell listings).
 
-### Supporting Open-Source Building Blocks
+### 🧱 Supporting Open-Source Building Blocks
 - **Live streaming**: Use open-source media servers (e.g., MediaMTX, OvenMediaEngine) or WebRTC solutions together with an e-commerce backend.
 - **Affiliate / creator tools**: Custom commission and tracking systems built on top of Medusa/Saleor + a simple creator portal.
 - **Shoppable video**: Combine video players with product hotspots using open-source frontends.
 
-### Typical Open-Source Approach
+### 🛠️ Typical Open-Source Approach
 1. **Commerce engine** — Medusa, Saleor, or Vendure
 2. **Storefront / creator shops** — Next.js, Remix, or custom React/Vue frontends
 3. **Live features** — Integrate open-source or self-hosted live streaming + real-time chat
