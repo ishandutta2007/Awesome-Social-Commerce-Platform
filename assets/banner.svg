@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0c10" />
+      <stop offset="50%" stop-color="#1b1d28" />
+      <stop offset="100%" stop-color="#0a0c10" />
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7b00" />
+      <stop offset="50%" stop-color="#ff007b" />
+      <stop offset="100%" stop-color="#9d00ff" />
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff007b" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#9d00ff" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="subtle-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-10px) rotate(3deg); }
+      100% { transform: translateY(0px) rotate(0deg); }
+    }
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      50% { opacity: 0.8; }
+      100% { opacity: 0.3; }
+    }
+    @keyframes dash {
+      to {
+        stroke-dashoffset: -40;
+      }
+    }
+    .floating-icon {
+      animation: float 6s ease-in-out infinite;
+      transform-origin: center;
+    }
+    .floating-icon-delayed {
+      animation: float 8s ease-in-out infinite;
+      animation-delay: 2s;
+      transform-origin: center;
+    }
+    .pulsing-node {
+      animation: pulse 4s ease-in-out infinite;
+    }
+    .moving-line {
+      stroke-dasharray: 10, 30;
+      animation: dash 5s linear infinite;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg-grad)" />
+
+  <!-- Networking background lines -->
+  <path d="M 0,100 L 1200,300 M 0,300 L 1200,100 M 200,0 L 400,400 M 1000,0 L 800,400" stroke="url(#line-grad)" stroke-width="1" opacity="0.3" />
+  
+  <!-- Moving dash lines to represent data flow -->
+  <path d="M 0,100 L 1200,300" stroke="#ff007b" stroke-width="1.5" class="moving-line" opacity="0.6" />
+  <path d="M 1200,100 L 0,300" stroke="#9d00ff" stroke-width="1.5" class="moving-line" opacity="0.6" />
+
+  <!-- Background decorative glowing circles -->
+  <circle cx="200" cy="120" r="100" fill="#ff007b" opacity="0.1" filter="url(#glow)" />
+  <circle cx="1000" cy="280" r="120" fill="#9d00ff" opacity="0.1" filter="url(#glow)" />
+
+  <!-- Main Title -->
+  <text x="50%" y="180" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-size="64" font-weight="900" text-anchor="middle" fill="url(#text-grad)" filter="url(#subtle-glow)">
+    Awesome Social Commerce
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="50%" y="235" font-family="'Inter', system-ui, sans-serif" font-size="20" font-weight="400" text-anchor="middle" fill="#a0aec0" letter-spacing="1.5">
+    Curated list of social commerce platforms &amp; open-source alternatives
+  </text>
+
+  <!-- Interactive Nodes/Icons (Floating) -->
+  <!-- Shopping Bag Icon (left) -->
+  <g class="floating-icon" transform="translate(150, 200)">
+    <circle cx="0" cy="0" r="45" fill="#1e1b4b" stroke="#ff007b" stroke-width="2" filter="url(#subtle-glow)" />
+    <!-- Shopping Bag Path -->
+    <path d="M -12,-5 L 12,-5 L 15,15 L -15,15 Z M -7,-5 C -7,-12 7,-12 7,-5" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Chat Bubble Icon (right) -->
+  <g class="floating-icon-delayed" transform="translate(1050, 150)">
+    <circle cx="0" cy="0" r="45" fill="#1e1b4b" stroke="#9d00ff" stroke-width="2" filter="url(#subtle-glow)" />
+    <!-- Chat Path -->
+    <path d="M -12,-10 L 12,-10 C 15,-10 15,-5 15,5 L 15,10 C 15,12 12,12 10,12 L -5,12 L -15,20 L -15,12 L -12,12 Z" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

@@ -1,5 +1,9 @@
 # Awesome-Social-Commerce-Platform
 
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Social Commerce Banner" width="100%" />
+</div>
+
 ## Similar Projects to Social Commerce Platforms
 
 **Social Commerce Platforms** enable shopping experiences driven by social interactions — influencer storefronts, affiliate links, live shopping/livestream commerce, shoppable video, comment-based selling, and social discovery. Leading commercial platforms include ShopMy, LTK (LikeToKnow.it), Spring by Amaze, Popshop Live, Whatnot, CommentSold, Firework, Flip.shop, ShopThing, and LiSA.
